@@ -11,4 +11,3 @@ maeve.forward(100)
 view_screen = Screen()
 print(view_screen.canvheight)
 view_screen.exitonclick()
-
